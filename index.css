@@ -10,7 +10,7 @@ body {
   /* your properties here */
   display: grid;
   /*grid-template: auto / 1fr 1fr 1fr;*/
-  grid-template-columns: 50px auto 25%;
+  grid-template-columns: 50px 10% 25%;
 }
 
 .grid-item {
